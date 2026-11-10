@@ -215,4 +215,4 @@ Unity is offered as a full free version with all features and updates included. 
 Unlock your creativity today with Unity! Download now and start your game development journey.
 
 ---
-**Last updated:** 2026-11-10 08:58:23 UTC
+**Last updated:** 2026-11-10 16:48:19 UTC
